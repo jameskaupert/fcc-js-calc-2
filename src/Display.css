@@ -1,0 +1,15 @@
+.display-container {
+  background-color: #515151;
+  color: white;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: center;
+  height: 3vh;
+  text-align: right;
+  padding: 0.8rem 1.6rem;
+}

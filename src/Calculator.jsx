@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Keypad from './Keypad';
 import Display from './Display';
+import './Calculator.css';
 
 const operators = /[+\-/x]/;
 
